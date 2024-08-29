@@ -21,7 +21,7 @@ Dataset: https://www.ebi.ac.uk/gxa/experiments/E-GEOD-112057/Results
 
 ## File Outline
 `data/`: folder containing tsv files for the datasets used in the project </p>
-`docs/`: folder containing the report HTML file hosted on GitHub Pages
+`docs/`: folder containing the report HTML file hosted on GitHub Pages </p>
 `pathways/`: folder containing txt files containing the genes in each cell signaling pathway explored in the project </p>
 `final_project.ipynb`: Jupyter notebook file containing the report </p>
 `custom.css`: css file used to customize the HTML output file from `final_project.ipynb` </p>
